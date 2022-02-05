@@ -1,1 +1,1 @@
-# triangle-hyp-hs
+# trihyp
